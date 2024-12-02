@@ -1,5 +1,4 @@
 import streamlit as st
-import pandas as pd
 from fastai.vision.all import load_learner
 from PIL import Image
 
